@@ -17,7 +17,7 @@ public class buc {
 		int curyr = Integer.parseInt(br.readLine());
 		
 		System.out.println("Welcome "+nam+". You are "+(curyr-dob));
-		System.out.println("Please come again");
+		System.out.println("Please come again and again");
 		 
 
 	}
